@@ -1,0 +1,17 @@
+button {
+    text-align:center;
+    background-color:aqua;
+    display: block;
+    margin: auto;
+    color:beige;
+    padding: 8px 22px;
+    background: #7d2ae8;
+    transition: all 0.2s ease;
+}
+button:active {
+    transform: scale(0.96);
+}
+
+body {
+    background: greenyellow;
+}
